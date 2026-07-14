@@ -6,7 +6,7 @@ The **Bulk File Renamer** is a Microsoft Power Automate Desktop (PAD) automation
 
 This project demonstrates the use of variables, loops, file manipulation, and text formatting in Power Automate Desktop.
 
----
+----
 
 ## Business Problem
 
