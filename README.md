@@ -102,9 +102,9 @@ End
 ### Before
 
 ```
-IMG001.jpg
-IMG002.jpg
-IMG003.jpg
+IMG001.png
+IMG002.pmg
+IMG003.png
 ```
 
 ### After
