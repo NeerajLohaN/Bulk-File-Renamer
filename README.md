@@ -102,18 +102,17 @@ End
 ### Before
 
 ```
-IMG001.png
-IMG002.pmg
-IMG003.png
+Screenshot (1).png
+Screenshot (2).png
+Screenshot (3).png
 ```
 
 ### After
 
 ```
-
-Vacation_001.jpg
-Vacation_002.jpg
-Vacation_003.jpg
+Img_001.png
+Img_002.png
+Img_003.png
 ```
 
 ---
